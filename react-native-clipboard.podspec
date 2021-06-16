@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name             = "RNCClipboard"
+  s.name             = "react-native-clipboard"
   s.version          = '1.8.2'
   s.summary          = 'React Native Clipboard API for macOS, iOS, Android, and Windows'
   s.license          = 'MIT'
